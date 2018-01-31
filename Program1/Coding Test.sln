@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostCommonLowercase", "Program1\MostCommonLowercase.csproj", "{AF4B3B08-6C26-4F84-844B-0F3052CA4E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityAlpabetizer", "CityAlpabetizer\CityAlpabetizer.csproj", "{7621209B-F384-4E9A-A678-0444B2244944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4B3B08-6C26-4F84-844B-0F3052CA4E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4B3B08-6C26-4F84-844B-0F3052CA4E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4B3B08-6C26-4F84-844B-0F3052CA4E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4B3B08-6C26-4F84-844B-0F3052CA4E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7621209B-F384-4E9A-A678-0444B2244944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7621209B-F384-4E9A-A678-0444B2244944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7621209B-F384-4E9A-A678-0444B2244944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7621209B-F384-4E9A-A678-0444B2244944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
